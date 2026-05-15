@@ -3,7 +3,7 @@ requires = ["setuptools>=69"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "fastapi-monolithic-boilerplate"
+name = "fastapi-python-monolithic-boilerplate"
 version = "0.1.0"
 description = "A FastAPI modular-monolith boilerplate with tests, Docker, typed settings, and clean module boundaries."
 readme = "README.md"

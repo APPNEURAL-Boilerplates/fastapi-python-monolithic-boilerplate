@@ -22,7 +22,7 @@ typecheck:
 check: lint typecheck test
 
 docker-build:
-	docker build -t fastapi-monolithic-boilerplate .
+	docker build -t fastapi-python-monolithic-boilerplate .
 
 docker-up:
 	docker compose up --build

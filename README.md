@@ -31,7 +31,7 @@ It is a single deployable application, but code is organized by feature modules 
 ## Project structure
 
 ```txt
-fastapi-monolithic-boilerplate/
+fastapi-python-monolithic-boilerplate/
 ├─ app/
 │  ├─ main.py
 │  ├─ api/

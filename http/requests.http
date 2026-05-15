@@ -1,0 +1,17 @@
+### Root
+GET http://localhost:8000/
+
+### Health
+GET http://localhost:8000/health
+
+### List users
+GET http://localhost:8000/api/v1/users
+
+### Create user
+POST http://localhost:8000/api/v1/users
+content-type: application/json
+
+{
+  "name": "Ada Lovelace",
+  "email": "ada@example.com"
+}
